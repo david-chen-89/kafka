@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/Users/exilant2/Documents/software/eclipse-rcp/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.osgi_3.10.101.v20150820-1432.jar" sourcepath="/Users/exilant2/Documents/software/eclipse-rcp/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.osgi.source_3.10.101.v20150820-1432.jar"/>
+	<classpathentry kind="lib" path="/Users/exilant2/Documents/software/eclipse-rcp/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.core.commands_3.7.0.v20150422-0725.jar" sourcepath="/Users/exilant2/Documents/software/eclipse-rcp/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.core.commands.source_3.7.0.v20150422-0725.jar"/>
+	<classpathentry kind="lib" path="/Users/exilant2/Documents/software/eclipse-rcp/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.equinox.common_3.7.0.v20150402-1709.jar" sourcepath="/Users/exilant2/Documents/software/eclipse-rcp/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.equinox.common.source_3.7.0.v20150402-1709.jar"/>
+	<classpathentry kind="lib" path="/Users/exilant2/Documents/software/eclipse-rcp/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.equinox.registry_3.6.0.v20150318-1503.jar" sourcepath="/Users/exilant2/Documents/software/eclipse-rcp/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.equinox.registry.source_3.6.0.v20150318-1503.jar"/>
+	<classpathentry kind="lib" path="/Users/exilant2/Documents/software/eclipse-rcp/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.core.runtime_3.11.1.v20150903-1804.jar" sourcepath="/Users/exilant2/Documents/software/eclipse-rcp/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.core.runtime.source_3.11.1.v20150903-1804.jar"/>
+	<classpathentry kind="lib" path="/Users/exilant2/Documents/software/eclipse-rcp/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.text_3.5.400.v20150505-1044.jar" sourcepath="/Users/exilant2/Documents/software/eclipse-rcp/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.text.source_3.5.400.v20150505-1044.jar"/>
+	<classpathentry kind="lib" path="/Users/exilant2/Documents/software/eclipse-rcp/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.swt.cocoa.macosx.x86_64_3.104.1.v20150825-0743.jar" sourcepath="/Users/exilant2/Documents/software/eclipse-rcp/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.swt.cocoa.macosx.x86_64.source_3.104.1.v20150825-0743.jar"/>
+	<classpathentry kind="lib" path="/Users/exilant2/Documents/software/eclipse-rcp/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.jface_3.11.0.v20150602-1400.jar" sourcepath="/Users/exilant2/Documents/software/eclipse-rcp/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.jface.source_3.11.0.v20150602-1400.jar"/>
+	<classpathentry kind="lib" path="/Users/exilant2/Documents/software/eclipse-rcp/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.jface.text_3.10.0.v20150603-1752.jar" sourcepath="/Users/exilant2/Documents/software/eclipse-rcp/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.jface.text.source_3.10.0.v20150603-1752.jar"/>
+	<classpathentry kind="lib" path="/Users/exilant2/Documents/software/eclipse-rcp/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.ui.workbench_3.107.0.v20150825-2206.jar" sourcepath="/Users/exilant2/Documents/software/eclipse-rcp/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.ui.workbench.source_3.107.0.v20150825-2206.jar"/>
+	<classpathentry kind="lib" path="/Users/exilant2/Documents/software/eclipse-rcp/Eclipse.app/Contents/Eclipse/plugins/com.ibm.icu_54.1.1.v201501272100.jar" sourcepath="/Users/exilant2/Documents/software/eclipse-rcp/Eclipse.app/Contents/Eclipse/plugins/com.ibm.icu.source_54.1.1.v201501272100.jar"/>
+	<classpathentry kind="lib" path="/Users/exilant2/Documents/software/eclipse-rcp/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.ui.forms_3.6.200.v20150506-2029.jar" sourcepath="/Users/exilant2/Documents/software/eclipse-rcp/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.ui.forms.source_3.6.200.v20150506-2029.jar"/>
+	<classpathentry kind="lib" path="lib/appeng-kafka-utils-2.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/kafka_2.10-0.8.0.jar"/>
+	<classpathentry kind="lib" path="lib/scala-reflect-2.10.1.jar"/>
+	<classpathentry kind="lib" path="lib/scala-compiler-2.10.1.jar"/>
+	<classpathentry kind="lib" path="lib/scala-library-2.10.1.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="lib/metrics-annotation-2.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/metrics-core-2.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/lz4-1.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/zkclient-0.7.jar"/>
+	<classpathentry kind="lib" path="lib/zookeeper-3.4.6.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.6.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-log4j12-1.7.6.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
